@@ -1,3 +1,5 @@
+
+#ESTE PROYECTO NO ES MÍO
 # 💲InVentas💲
 App de registro de inventario y ventas para emprendimientos que operan en economías con control cambiario.
 
